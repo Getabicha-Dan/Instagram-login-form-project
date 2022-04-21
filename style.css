@@ -1,0 +1,49 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.box-A{
+    border: 1px solid rgb(128, 126, 126);
+    height: 500px;
+    width: 350px;
+}
+.hero img{
+   
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+  margin-top: 36px;
+  margin-bottom: 12px;
+
+    
+}
+.loginform{
+    width: 268px;
+    height: 38px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+    
+}
+.loginform .email input{
+   margin-top: 0px;
+   margin-bottom: 6px;
+   width: 246px;
+   height: 38px;
+}
+.loginform .password input{
+    margin-top: 0px;
+    margin-bottom: 6px;
+    width: 246px;
+    height: 38px;
+ }
+ .form button{
+    margin-top: 0px;
+    margin-bottom: 6px;
+    background-color: rgb(197, 229, 248);
+    width: 268px;
+    height: 30px;
+    padding: 2px;
+   align-items: center;
+ }
+ 
